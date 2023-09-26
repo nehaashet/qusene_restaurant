@@ -384,7 +384,7 @@ $_SESSION['index'] = $_SERVER['PHP_SELF'];
     <h1 class="heading"> fast and free </h1>
 
     <!-- FORM -->
-    <form action="#" method="post">
+    <form action="connect.php" method="post">
         <div class="inputBox">
             <div class="input">
                 <span>your name</span>
